@@ -1,0 +1,32 @@
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 500,
+  'GRAD' 0,
+  'opsz' 24;
+  font-size: 50px
+}
+
+.heading{
+    background-color: rgb(219, 213, 213);
+    height: 100px;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.bottom{
+    background-color: rgb(216, 231, 233);
+    height: 100px;
+    padding: 20px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.content{
+    padding: 20px;
+    text-align: center;
+}
